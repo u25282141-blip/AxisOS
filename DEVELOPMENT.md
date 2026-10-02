@@ -44,7 +44,7 @@ Welcome to the comprehensive development guide for **AxisOS**. This document pro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jackyphuti/AxisOS.git
+   git clone https://github.com/u25282141-blip/AxisOS.git
    cd AxisOS
    ```
 

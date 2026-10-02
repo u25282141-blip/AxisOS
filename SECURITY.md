@@ -23,7 +23,7 @@ We actively provide security updates, vulnerability patches, and bug fixes for t
 
 ### Preferred Method: Private Vulnerability Reporting (GitHub)
 AxisOS has **GitHub Private Vulnerability Reporting** enabled:
-1. Navigate to the [AxisOS Security Advisories](https://github.com/jackyphuti/AxisOS/security/advisories) page.
+1. Navigate to the [AxisOS Security Advisories](https://github.com/u25282141-blip/AxisOS/security/advisories) page.
 2. Click **"Report a vulnerability"**.
 3. Fill out the advisory form with:
    - A clear description of the vulnerability.

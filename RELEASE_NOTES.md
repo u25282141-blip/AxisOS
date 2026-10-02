@@ -64,4 +64,4 @@ AxisOS is a next-generation Linux operating system designed for speed, glassmorp
 
 ## 📖 Step-by-Step Installation Guide
 
-For the full detailed walkthrough (writing with Rufus/BalenaEtcher, BIOS keys, and dual-booting), see the [**AxisOS Installation Guide**](https://github.com/jackyphuti/AxisOS/blob/main/INSTALLATION_GUIDE.md).
+For the full detailed walkthrough (writing with Rufus/BalenaEtcher, BIOS keys, and dual-booting), see the [**AxisOS Installation Guide**](https://github.com/u25282141-blip/AxisOS/blob/main/INSTALLATION_GUIDE.md).

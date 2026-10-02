@@ -6,7 +6,7 @@
   <p><b>A modern, fluid, glassmorphic Linux operating system built on Debian, the Cage Wayland compositor, and a hardware-accelerated desktop shell.</b></p>
 
   <p>
-    <a href="https://github.com/jackyphuti/AxisOS/releases"><img src="https://img.shields.io/github/v/release/jackyphuti/AxisOS?style=flat-square&color=blue" alt="Release"></a>
+    <a href="https://github.com/u25282141-blip/AxisOS/releases"><img src="https://img.shields.io/github/v/release/u25282141-blip/AxisOS?style=flat-square&color=blue" alt="Release"></a>
     <img src="https://img.shields.io/badge/Architecture-x86__64-informational?style=flat-square" alt="Arch">
     <img src="https://img.shields.io/badge/Compositor-Wayland%20(Cage)-purple?style=flat-square" alt="Compositor">
     <img src="https://img.shields.io/badge/Init-systemd-orange?style=flat-square" alt="Init">
@@ -17,7 +17,7 @@
     <a href="./INSTALLATION_GUIDE.md"><b>📖 Installation Guide</b></a> •
     <a href="./DEVELOPMENT.md"><b>🛠️ Build & Developer Guide</b></a> •
     <a href="./CONTRIBUTING.md"><b>🤝 How to Contribute</b></a> •
-    <a href="https://github.com/jackyphuti/AxisOS/releases"><b>⬇️ Releases</b></a>
+    <a href="https://github.com/u25282141-blip/AxisOS/releases"><b>⬇️ Releases</b></a>
   </p>
 
 </div>
@@ -93,7 +93,7 @@ For complete setup instructions, please see the **[Development Guide](DEVELOPMEN
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/jackyphuti/AxisOS.git
+git clone https://github.com/u25282141-blip/AxisOS.git
 cd AxisOS
 
 # 2. Install desktop shell dependencies

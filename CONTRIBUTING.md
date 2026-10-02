@@ -36,7 +36,7 @@ To keep our codebase clean, stable, and robust:
 > **No direct pushes to `main`**: All code contributions must be submitted via a **Pull Request (PR)** from a fork or topic branch. Automated merging to `main` is disabled to ensure every contribution undergoes manual code review and verification.
 
 ### Standard Git Workflow:
-1. **Fork the Repository**: Click the **Fork** button at the top right of [jackyphuti/AxisOS](https://github.com/jackyphuti/AxisOS).
+1. **Fork the Repository**: Click the **Fork** button at the top right of [u25282141-blip/AxisOS](https://github.com/u25282141-blip/AxisOS).
 2. **Clone your Fork**:
    ```bash
    git clone https://github.com/<your-username>/AxisOS.git
@@ -217,7 +217,7 @@ When opening a Pull Request:
 ## 🐛 Reporting Issues & Bugs
 
 If you discover a bug or have a feature idea:
-- Check existing [GitHub Issues](https://github.com/jackyphuti/AxisOS/issues) to avoid duplicates.
+- Check existing [GitHub Issues](https://github.com/u25282141-blip/AxisOS/issues) to avoid duplicates.
 - Open a new issue with:
   - Clear steps to reproduce the issue.
   - Expected vs. actual behavior.
