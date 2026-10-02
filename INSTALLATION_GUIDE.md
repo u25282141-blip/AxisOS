@@ -21,7 +21,7 @@ AxisOS is a next-generation Linux operating system designed for speed, beauty, a
 
 ## 2. Creating a Bootable USB Drive
 
-Download `axisos-live-amd64.iso` from the [GitHub Releases](https://github.com/jackyphuti/AxisOS/releases) page.
+Download `axisos-live-amd64.iso` from the [GitHub Releases](https://github.com/u25282141-blip/AxisOS/releases) page.
 
 ### Method A: Using Rufus (Windows — Recommended)
 1. Download and run [Rufus](https://rufus.ie/).
