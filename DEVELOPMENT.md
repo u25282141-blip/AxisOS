@@ -105,7 +105,7 @@ The **AxisOS System Daemon** (`os-build/configs/cage-session/axisos-daemon.cjs`)
 cd shell
 npm run serve
 
-# Or directly using Node.js:
+# Or directly using Node.js from the repository root:
 node os-build/configs/cage-session/axisos-daemon.cjs
 ```
 The daemon listens on `http://127.0.0.1:3000`. You can test endpoints via `curl`:
